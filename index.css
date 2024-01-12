@@ -1,0 +1,51 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 100px;
+}
+
+a {
+  text-decoration: none;
+  color: gray;
+}
+#icon {
+  font-size: 30px;
+}
+#Button {
+  background-color: #fd6e0a;
+  color: white;
+  padding: 7px 15px;
+  border-radius: 5px;
+}
+#downloadCV {
+  background-color: #fd6e0a;
+  color: white;
+  padding: 7px 15px;
+  border-radius: 5px;
+  border: none;
+}
+#contuct {
+  color: #fd6e0a;
+  padding: 7px 15px;
+  border: 1px solid #fd6e0a;
+  border-radius: 5px;
+  background-color: white;
+}
+#sectionOne {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.containerOne {
+  background-image: url("https://i.postimg.cc/bN93yNRs/header-bg.png");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: 500px;
+}
+#developerbg {
+  background-image: url("https://i.postimg.cc/ZnCB1Hj8/developer.png");
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: contain;
+}
